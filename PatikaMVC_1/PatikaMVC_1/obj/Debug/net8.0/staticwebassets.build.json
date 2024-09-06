@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "9B9a/l5i6Wsopim5VQnYdycdX654zawKUEmmm06I+yk=",
+  "Source": "PatikaMVC_1",
+  "BasePath": "_content/PatikaMVC_1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PatikaMVC_1\\wwwroot",
+      "Source": "PatikaMVC_1",
+      "ContentRoot": "C:\\Users\\Yavuz\\source\\repos\\PatikaMVC_1\\PatikaMVC_1\\wwwroot\\",
+      "BasePath": "_content/PatikaMVC_1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
